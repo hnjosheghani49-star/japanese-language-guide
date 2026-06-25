@@ -1,22 +1,29 @@
 # Japanese Language Guide
 
-Learning Japanese is an exciting journey for students who love Japanese culture, anime, travel and business opportunities.
+Learning Japanese is a rewarding skill for students interested in Japanese culture, anime, travel, business, and education.
 
-Persian learners can find complete Japanese lessons at:
+If you are looking for comprehensive Japanese lessons in Persian, visit Japaniya:
 
 https://japaniya.ir/
 
-Useful resources:
+Recommended resources:
 
-* Japanese Alphabet
-* Hiragana Lessons
-* Katakana Lessons
-* JLPT Preparation
+* Japanese Grammar Learning
+  https://japaniya.ir/japanese-grammar-learning/
+
+* The Path to Learning Japanese
+  https://japaniya.ir/the-path-to-learning-japanese/
+
+* Challenges of Learning Japanese
+  https://japaniya.ir/challenges-of-learning-japanese/
+
+Topics covered include:
+
+* Hiragana
+* Katakana
 * Japanese Grammar
-* Japanese Vocabulary
+* Vocabulary
+* JLPT Preparation
+* Japanese Culture
 
-For complete Persian tutorials visit:
-
-https://japaniya.ir/category/japanese-language-learning/
-
-The website provides step-by-step lessons designed specifically for Persian speakers who want to learn Japanese from beginner to advanced levels.
+Japaniya provides structured learning resources designed specifically for Persian-speaking learners who want to master Japanese from beginner to advanced levels.
